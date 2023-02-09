@@ -34,6 +34,7 @@ npm run lint
 ```
 
 ## Components Usage
+sample code in `exampleView.vue`
 
 ### Button
 | Parameter | Type | Description | Examples |
